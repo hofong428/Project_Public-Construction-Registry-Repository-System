@@ -1,2 +1,16 @@
-# Project_Public-Construction-Registry-Repository-System
+# Game- Company--Registry-Repository-System
 data extraction and encryption research
+![Steo02_analyse the ajax and webAPI](https://user-images.githubusercontent.com/70765681/222934787-980cf0ae-e7a7-448a-bdff-7a4bfe9d641f.png)
+![Step00_We see the encrypted text from Preview](https://user-images.githubusercontent.com/70765681/222934788-075bc742-7bcf-4f3a-9bf6-f5b14627b608.png)
+![Step01_use the XHR break to check ajax](https://user-images.githubusercontent.com/70765681/222934789-5486290c-0d49-406c-bf8c-64db819803b7.png)
+![Step03_ener to analyze server response](https://user-images.githubusercontent.com/70765681/222934790-9ef3aa17-9e4c-4b51-a5fb-3c58be48dd75.png)
+![Step04_ener the parse function](https://user-images.githubusercontent.com/70765681/222934791-e986657e-05b6-47d9-b489-49e863a395a6.png)
+![Step05_The WebDES use the webshell function](https://user-images.githubusercontent.com/70765681/222934792-a28c44be-2b20-484e-8dc2-3e5c33cad8e6.png)
+![Step06_we call webInstance functions](https://user-images.githubusercontent.com/70765681/222934793-6397efe5-b9ff-483f-97a2-dfe6639d494d.png)
+![Step07_Analyze the shell function](https://user-images.githubusercontent.com/70765681/222934794-7565191a-e774-4358-b23c-c59b5ca0281c.png)
+![Step08_Debug the navigator value](https://user-images.githubusercontent.com/70765681/222934796-2ba6f228-14ab-4de7-844f-f48ae6a4fc39.png)
+![Step09_search error message for debugging](https://user-images.githubusercontent.com/70765681/222934797-d83244c6-ccf0-4061-8646-60404e7d6b55.png)
+![Step10_we break here and refresh page](https://user-images.githubusercontent.com/70765681/222934798-3ba4fead-5eb2-4546-961e-16980d450266.png)
+![Step11_find out the navigator is dependent on the userAgent](https://user-images.githubusercontent.com/70765681/222934799-9e6bc8f8-3f34-4613-9105-6011ae7d5076.png)
+![Step12_copy the userAgent to js](https://user-images.githubusercontent.com/70765681/222934800-dd9f1766-5eaa-4695-a730-58d30a0d61ca.png)
+![Step13_we change the set of navigator and get the correct result](https://user-images.githubusercontent.com/70765681/222934801-bf61b135-af50-4989-b4ed-20671d6f7180.png)
